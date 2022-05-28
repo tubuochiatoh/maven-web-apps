@@ -103,7 +103,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>paypal Nexus Repository </name>
-	      <url>http://3.141.21.20:8081/repository/Job1-release/</url>
+	      <url>http://3.141.21.20:8081/repository/job1-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
